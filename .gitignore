@@ -29,3 +29,6 @@ target/
 *.iml
 .idea/
 out/
+
+# Maven Wrapper
+!maven-wrapper.jar
