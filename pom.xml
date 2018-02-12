@@ -17,6 +17,7 @@
         <module>factory-method</module>
         <module>adapter</module>
         <module>builder</module>
+        <module>observer</module>
     </modules>
 
     <build>
