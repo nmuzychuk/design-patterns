@@ -1,6 +1,6 @@
 package com.nmuzychuk;
 
-public class Singleton {
+public final class Singleton {
 
     private Singleton() {
     }
