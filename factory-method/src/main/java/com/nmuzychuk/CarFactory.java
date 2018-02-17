@@ -6,7 +6,7 @@ enum CarType {
 
 public class CarFactory {
 
-    public Car getCar(CarType carType) {
+    public Car getCar(final CarType carType) {
         switch (carType) {
             case Hatchback:
                 return new Hatchback();

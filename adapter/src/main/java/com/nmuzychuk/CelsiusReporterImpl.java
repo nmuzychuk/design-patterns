@@ -9,7 +9,7 @@ public class CelsiusReporterImpl implements CelsiusReporter {
     }
 
     @Override
-    public void setTemperature(int celsius) {
+    public void setTemperature(final int celsius) {
         this.temperature = celsius;
     }
 }

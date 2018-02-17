@@ -9,7 +9,7 @@ public class Form {
     private String lastName;
     private LocalDate dateOfBirth;
 
-    public Form(FormBuilder builder) {
+    public Form(final FormBuilder builder) {
         this.username = builder.username;
         this.password = builder.password;
         this.firstName = builder.firstName;
@@ -45,22 +45,22 @@ public class Form {
         private String lastName;
         private LocalDate dateOfBirth;
 
-        FormBuilder(String username, char[] password) {
+        FormBuilder(final String username, final char[] password) {
             this.username = username;
             this.password = password;
         }
 
-        public FormBuilder firstName(String firstName) {
+        public FormBuilder firstName(final String firstName) {
             this.firstName = firstName;
             return this;
         }
 
-        public FormBuilder lastName(String lastName) {
+        public FormBuilder lastName(final String lastName) {
             this.lastName = lastName;
             return this;
         }
 
-        public FormBuilder dateOfBirth(LocalDate dateOfBirth) {
+        public FormBuilder dateOfBirth(final LocalDate dateOfBirth) {
             this.dateOfBirth = dateOfBirth;
             return this;
         }

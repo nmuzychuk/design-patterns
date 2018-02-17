@@ -3,7 +3,7 @@ package com.nmuzychuk;
 public class User implements Observer {
     private String name;
 
-    User(String name) {
+    User(final String name) {
         this.name = name;
     }
 

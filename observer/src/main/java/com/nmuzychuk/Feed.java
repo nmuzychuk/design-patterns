@@ -7,12 +7,12 @@ public class Feed implements Subject {
     private List<Observer> observers = new ArrayList<>();
 
     @Override
-    public void addObserver(Observer observer) {
+    public void addObserver(final Observer observer) {
         observers.add(observer);
     }
 
     @Override
-    public void deleteObserver(Observer observer) {
+    public void deleteObserver(final Observer observer) {
         observers.remove(observer);
     }
 
