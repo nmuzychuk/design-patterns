@@ -18,6 +18,7 @@
         <module>adapter</module>
         <module>builder</module>
         <module>observer</module>
+        <module>decorator</module>
     </modules>
 
     <build>
