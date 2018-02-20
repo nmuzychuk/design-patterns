@@ -19,6 +19,7 @@
         <module>builder</module>
         <module>observer</module>
         <module>decorator</module>
+        <module>chain-of-responsibility</module>
     </modules>
 
     <build>
