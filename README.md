@@ -19,7 +19,7 @@ GoF software design patterns
 - [x] Chain of Responsibility
 - [ ] Command
 - [ ] Interpreter
-- [ ] Iterator
+- [x] Iterator
 - [ ] Mediator
 - [ ] Memento
 - [x] Observer

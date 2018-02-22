@@ -20,6 +20,7 @@
         <module>observer</module>
         <module>decorator</module>
         <module>chain-of-responsibility</module>
+        <module>iterator</module>
     </modules>
 
     <build>
