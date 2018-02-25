@@ -25,7 +25,7 @@ GoF software design patterns
 - [x] Observer
 - [ ] State
 - [ ] Strategy
-- [ ] Template Method
+- [x] Template Method
 - [ ] Visitor
 
 ## Test

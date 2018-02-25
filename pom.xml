@@ -22,6 +22,7 @@
         <module>chain-of-responsibility</module>
         <module>iterator</module>
         <module>prototype</module>
+        <module>template-method</module>
     </modules>
 
     <build>
