@@ -21,6 +21,7 @@
         <module>decorator</module>
         <module>chain-of-responsibility</module>
         <module>iterator</module>
+        <module>prototype</module>
     </modules>
 
     <build>
