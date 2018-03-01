@@ -23,6 +23,7 @@
         <module>iterator</module>
         <module>prototype</module>
         <module>template-method</module>
+        <module>strategy</module>
     </modules>
 
     <build>

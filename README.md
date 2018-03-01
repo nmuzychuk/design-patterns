@@ -24,7 +24,7 @@ GoF software design patterns
 - [ ] Memento
 - [x] Observer
 - [ ] State
-- [ ] Strategy
+- [x] Strategy
 - [x] Template Method
 - [ ] Visitor
 
