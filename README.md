@@ -14,7 +14,7 @@ GoF software design patterns
 - [ ] Composite
 - [x] Decorator
 - [ ] Facade
-- [ ] Flyweight
+- [x] Flyweight
 - [ ] Proxy
 - [x] Chain of Responsibility
 - [ ] Command

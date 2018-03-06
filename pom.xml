@@ -25,6 +25,7 @@
         <module>template-method</module>
         <module>strategy</module>
         <module>state</module>
+        <module>flyweight</module>
     </modules>
 
     <build>
