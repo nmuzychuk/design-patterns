@@ -4,7 +4,7 @@
 
 ## Overview
 GoF software design patterns
-- [ ] Abstract Factory
+- [x] Abstract Factory
 - [x] Builder
 - [x] Factory Method
 - [x] Prototype
