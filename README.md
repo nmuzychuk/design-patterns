@@ -10,7 +10,7 @@ GoF software design patterns
 - [x] Prototype
 - [x] Singleton
 - [x] Adapter
-- [ ] Bridge
+- [x] Bridge
 - [ ] Composite
 - [x] Decorator
 - [ ] Facade
