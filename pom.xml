@@ -28,6 +28,7 @@
         <module>flyweight</module>
         <module>abstract-factory</module>
         <module>bridge</module>
+        <module>composite</module>
     </modules>
 
     <build>

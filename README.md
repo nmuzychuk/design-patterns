@@ -11,7 +11,7 @@ GoF software design patterns
 - [x] Singleton
 - [x] Adapter
 - [x] Bridge
-- [ ] Composite
+- [x] Composite
 - [x] Decorator
 - [ ] Facade
 - [x] Flyweight
