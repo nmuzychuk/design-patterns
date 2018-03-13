@@ -29,6 +29,7 @@
         <module>abstract-factory</module>
         <module>bridge</module>
         <module>composite</module>
+        <module>facade</module>
     </modules>
 
     <build>

@@ -13,7 +13,7 @@ GoF software design patterns
 - [x] Bridge
 - [x] Composite
 - [x] Decorator
-- [ ] Facade
+- [x] Facade
 - [x] Flyweight
 - [ ] Proxy
 - [x] Chain of Responsibility
