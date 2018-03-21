@@ -17,7 +17,7 @@ GoF software design patterns
 - [x] Flyweight
 - [x] Proxy
 - [x] Chain of Responsibility
-- [ ] Command
+- [x] Command
 - [ ] Interpreter
 - [x] Iterator
 - [ ] Mediator
