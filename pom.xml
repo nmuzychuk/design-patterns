@@ -32,6 +32,7 @@
         <module>facade</module>
         <module>proxy</module>
         <module>command</module>
+        <module>interpreter</module>
     </modules>
 
     <build>

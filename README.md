@@ -18,7 +18,7 @@ GoF software design patterns
 - [x] Proxy
 - [x] Chain of Responsibility
 - [x] Command
-- [ ] Interpreter
+- [x] Interpreter
 - [x] Iterator
 - [ ] Mediator
 - [ ] Memento
