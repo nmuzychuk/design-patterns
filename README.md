@@ -20,7 +20,7 @@ GoF software design patterns
 - [x] Command
 - [x] Interpreter
 - [x] Iterator
-- [ ] Mediator
+- [x] Mediator
 - [ ] Memento
 - [x] Observer
 - [x] State

@@ -33,6 +33,7 @@
         <module>proxy</module>
         <module>command</module>
         <module>interpreter</module>
+        <module>mediator</module>
     </modules>
 
     <build>
