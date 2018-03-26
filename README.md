@@ -21,7 +21,7 @@ GoF software design patterns
 - [x] Interpreter
 - [x] Iterator
 - [x] Mediator
-- [ ] Memento
+- [x] Memento
 - [x] Observer
 - [x] State
 - [x] Strategy
