@@ -26,7 +26,7 @@ GoF software design patterns
 - [x] State
 - [x] Strategy
 - [x] Template Method
-- [ ] Visitor
+- [x] Visitor
 
 ## Test
 Run JUnit tests
