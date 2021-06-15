@@ -1,5 +1,5 @@
 # Design Patterns
-[![Build Status](https://travis-ci.org/nmuzychuk/design-patterns.svg?branch=master)](https://travis-ci.org/nmuzychuk/design-patterns)
+[![Java CI with Maven](https://github.com/nmuzychuk/design-patterns/actions/workflows/maven.yml/badge.svg)](https://github.com/nmuzychuk/design-patterns/actions/workflows/maven.yml)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/efbc2bc88c3a4b5fba9d127dd1097dc7)](https://www.codacy.com/app/nmuzychuk/design-patterns)
 
 ## Overview
